@@ -2,22 +2,8 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
+This is a README.md generator. It will prompt the user with a set of questions that, when filled out, will effectively create a professional README.md file. 
 
-
-
-## Table of Contents 
-
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [License](#license)
-
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
-* [Questions](#questions)
 
 ## Installation
 
@@ -49,5 +35,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at . You can find more of my work at [](https://github.com//).
+If you have any questions about the repo, open an issue or contact me directly at . You can find more of my work at [](https://github.com/lockwoodtommy01/).
 
